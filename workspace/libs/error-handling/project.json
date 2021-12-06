@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/error-handling",
+  "sourceRoot": "libs/error-handling/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/error-handling"],
+      "options": {
+        "jestConfig": "libs/error-handling/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/error-handling/src/**/*.ts",
+          "libs/error-handling/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

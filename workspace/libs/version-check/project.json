@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/version-check",
+  "sourceRoot": "libs/version-check/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/version-check"],
+      "options": {
+        "jestConfig": "libs/version-check/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/version-check/src/**/*.ts",
+          "libs/version-check/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

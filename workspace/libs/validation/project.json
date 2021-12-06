@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/validation",
+  "sourceRoot": "libs/validation/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/validation"],
+      "options": {
+        "jestConfig": "libs/validation/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/validation/src/**/*.ts",
+          "libs/validation/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

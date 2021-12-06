@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/logging",
+  "sourceRoot": "libs/logging/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/logging"],
+      "options": {
+        "jestConfig": "libs/logging/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/logging/src/**/*.ts",
+          "libs/logging/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

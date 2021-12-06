@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/billing/billing-ui",
+  "sourceRoot": "libs/billing/billing-ui/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/billing/billing-ui"],
+      "options": {
+        "jestConfig": "libs/billing/billing-ui/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/billing/billing-ui/src/**/*.ts",
+          "libs/billing/billing-ui/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

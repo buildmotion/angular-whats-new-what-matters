@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/security/security-ui",
+  "sourceRoot": "libs/security/security-ui/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/security/security-ui"],
+      "options": {
+        "jestConfig": "libs/security/security-ui/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/security/security-ui/src/**/*.ts",
+          "libs/security/security-ui/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

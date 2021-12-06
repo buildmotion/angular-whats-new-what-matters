@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/admin/admin-ui",
+  "sourceRoot": "libs/admin/admin-ui/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/admin/admin-ui"],
+      "options": {
+        "jestConfig": "libs/admin/admin-ui/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/admin/admin-ui/src/**/*.ts",
+          "libs/admin/admin-ui/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

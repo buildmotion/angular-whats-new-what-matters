@@ -1,0 +1,28 @@
+{
+  "root": "apps/billing-e2e",
+  "sourceRoot": "apps/billing-e2e/src",
+  "projectType": "application",
+  "targets": {
+    "e2e": {
+      "executor": "@nrwl/cypress:cypress",
+      "options": {
+        "cypressConfig": "apps/billing-e2e/cypress.json",
+        "devServerTarget": "billing:serve:development"
+      },
+      "configurations": {
+        "production": {
+          "devServerTarget": "billing:serve:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/billing-e2e/**/*.{js,ts}"]
+      }
+    }
+  },
+  "tags": [],
+  "implicitDependencies": ["billing"]
+}

@@ -1,0 +1,3902 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "/Users/valencia/work/github/angular-whats-new-what-matters/workspace",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-12-06 01:43:29",
+            "filesum": 639,
+            "codesum": 18823,
+            "commentsum": 1212,
+            "blanksum": 2761,
+            "statistics": {
+                "": {
+                    "code": 385,
+                    "comment": 77,
+                    "blank": 88
+                },
+                ".ts": {
+                    "code": 1701,
+                    "comment": 966,
+                    "blank": 371
+                },
+                ".json": {
+                    "code": 5187,
+                    "comment": 0,
+                    "blank": 60
+                },
+                ".js": {
+                    "code": 1038,
+                    "comment": 80,
+                    "blank": 26
+                },
+                ".scss": {
+                    "code": 1008,
+                    "comment": 36,
+                    "blank": 162
+                },
+                ".html": {
+                    "code": 1251,
+                    "comment": 0,
+                    "blank": 9
+                },
+                ".md": {
+                    "code": 123,
+                    "comment": 30,
+                    "blank": 97
+                },
+                ".lock": {
+                    "code": 8130,
+                    "comment": 23,
+                    "blank": 1948
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": ".editorconfig"
+                },
+                {
+                    "blank": 0,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": ".eslintrc.json"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 22,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".prettierignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": ".prettierrc"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/jest.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/app/.gitkeep"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/app/app.controller.spec.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/app/app.controller.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/app/app.module.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/app/app.service.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/app/app.service.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/src/environments/environment.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "apps/accounts-api/src/main.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/accounts-api/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/accounts-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/accounts-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/accounts-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/accounts-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/accounts-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/accounts-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/accounts-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/accounts-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/accounts-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/accounts/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/accounts/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/accounts/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 100,
+                    "comment": 0,
+                    "filename": "apps/accounts/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "apps/accounts/proxy.conf.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/accounts/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "apps/accounts/src/app/app.module.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/app/cross-cutting.module.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/app/remote-entry/entry.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/app/remote-entry/entry.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/bootstrap.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/accounts/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/accounts/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/accounts/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/accounts/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/accounts/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/accounts/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/accounts/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/accounts/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/accounts/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 10,
+                    "filename": "apps/accounts/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/accounts/webpack.prod.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/admin-api/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "apps/admin-api/jest.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "apps/admin-api/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/app/.gitkeep"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/app/app.controller.spec.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/app/app.controller.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/app/app.module.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/app/app.service.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/app/app.service.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/admin-api/src/environments/environment.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "apps/admin-api/src/main.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/admin-api/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/admin-api/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/admin-api/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/admin-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/admin-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/admin-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/admin-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/admin-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/admin-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/admin-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/admin-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/admin-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/admin/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/admin/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/admin/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 100,
+                    "comment": 0,
+                    "filename": "apps/admin/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "apps/admin/proxy.conf.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/admin/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/admin/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/admin/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/admin/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "apps/admin/src/app/app.module.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/admin/src/app/cross-cutting.module.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "apps/admin/src/app/remote-entry/entry.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/admin/src/app/remote-entry/entry.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/admin/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/admin/src/bootstrap.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/admin/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/admin/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/admin/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/admin/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/admin/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/admin/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/admin/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/admin/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/admin/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/admin/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/admin/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/admin/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 10,
+                    "filename": "apps/admin/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/admin/webpack.prod.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/b2b-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/b2b-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/b2b-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/b2b-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/b2b-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/b2b-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/b2b-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/b2b-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/b2b-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/b2b/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/b2b/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/b2b/jest.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 88,
+                    "comment": 0,
+                    "filename": "apps/b2b/project.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/b2b/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/app/app.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/b2b/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/b2b/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/b2b/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/b2b/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/b2b/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/b2b/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/b2b/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/b2b/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/b2b/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/billing-api/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "apps/billing-api/jest.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "apps/billing-api/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/app/.gitkeep"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/app/app.controller.spec.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/app/app.controller.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/app/app.module.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/app/app.service.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/app/app.service.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/billing-api/src/environments/environment.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "apps/billing-api/src/main.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/billing-api/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/billing-api/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/billing-api/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/billing-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/billing-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/billing-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/billing-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/billing-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/billing-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/billing-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/billing-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/billing-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/billing/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/billing/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/billing/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 100,
+                    "comment": 0,
+                    "filename": "apps/billing/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "apps/billing/proxy.conf.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/billing/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/billing/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/billing/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/billing/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "apps/billing/src/app/app.module.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/billing/src/app/cross-cutting.module.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "apps/billing/src/app/remote-entry/entry.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/billing/src/app/remote-entry/entry.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/billing/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/billing/src/bootstrap.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/billing/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/billing/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/billing/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/billing/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/billing/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/billing/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/billing/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/billing/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/billing/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/billing/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/billing/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/billing/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 10,
+                    "filename": "apps/billing/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/billing/webpack.prod.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "apps/dashboard-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/dashboard-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/dashboard-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/dashboard-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/dashboard-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/dashboard-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/dashboard-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/dashboard-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/dashboard-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/dashboard/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/dashboard/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/dashboard/jest.config.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 112,
+                    "comment": 0,
+                    "filename": "apps/dashboard/project.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/dashboard/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/app/app.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/bootstrap.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/decl.d.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/dashboard/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/dashboard/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/dashboard/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/dashboard/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/dashboard/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/dashboard/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/dashboard/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/dashboard/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/dashboard/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 49,
+                    "comment": 10,
+                    "filename": "apps/dashboard/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/dashboard/webpack.prod.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/portal-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/portal-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/portal-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/portal-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/portal-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/portal-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/portal-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/portal-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/portal-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/portal/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/portal/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/portal/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 103,
+                    "comment": 0,
+                    "filename": "apps/portal/project.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/portal/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/portal/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/portal/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/portal/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "apps/portal/src/app/app.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/portal/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/portal/src/bootstrap.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/portal/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/portal/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/portal/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/portal/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/portal/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/portal/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/portal/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/portal/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/portal/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/portal/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/portal/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/portal/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 42,
+                    "comment": 10,
+                    "filename": "apps/portal/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/portal/webpack.prod.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/products-api/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "apps/products-api/jest.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "apps/products-api/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/app/.gitkeep"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/app/app.controller.spec.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/app/app.controller.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/app/app.module.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/app/app.service.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/app/app.service.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/products-api/src/environments/environment.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "apps/products-api/src/main.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/products-api/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/products-api/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/products-api/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/products-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/products-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/products-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/products-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/products-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/products-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/products-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/products-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/products-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/products/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/products/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/products/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 100,
+                    "comment": 0,
+                    "filename": "apps/products/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "apps/products/proxy.conf.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/products/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/products/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/products/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/products/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "apps/products/src/app/app.module.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/products/src/app/cross-cutting.module.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "apps/products/src/app/remote-entry/entry.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/products/src/app/remote-entry/entry.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/products/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/products/src/bootstrap.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/products/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/products/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/products/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/products/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/products/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/products/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/products/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/products/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/products/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/products/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/products/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/products/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 10,
+                    "filename": "apps/products/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/products/webpack.prod.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/reports-api/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "apps/reports-api/jest.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "apps/reports-api/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/app/.gitkeep"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/app/app.controller.spec.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/app/app.controller.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/app/app.module.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/app/app.service.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/app/app.service.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/reports-api/src/environments/environment.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "apps/reports-api/src/main.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/reports-api/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/reports-api/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/reports-api/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/reports-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/reports-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/reports-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/reports-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/reports-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/reports-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/reports-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/reports-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/reports-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/reports/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/reports/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/reports/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 100,
+                    "comment": 0,
+                    "filename": "apps/reports/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "apps/reports/proxy.conf.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/reports/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/reports/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/reports/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/reports/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "apps/reports/src/app/app.module.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/reports/src/app/cross-cutting.module.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "apps/reports/src/app/remote-entry/entry.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/reports/src/app/remote-entry/entry.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/reports/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/reports/src/bootstrap.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/reports/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/reports/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/reports/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/reports/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/reports/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/reports/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/reports/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/reports/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/reports/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/reports/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/reports/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/reports/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 10,
+                    "filename": "apps/reports/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/reports/webpack.prod.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/security-api/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "apps/security-api/jest.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "apps/security-api/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/app/.gitkeep"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/app/app.controller.spec.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/app/app.controller.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/app/app.module.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/app/app.service.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/app/app.service.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/security-api/src/environments/environment.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "apps/security-api/src/main.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/security-api/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/security-api/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/security-api/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/security-e2e/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "apps/security-e2e/cypress.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/security-e2e/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "apps/security-e2e/src/fixtures/example.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "apps/security-e2e/src/integration/app.spec.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/security-e2e/src/support/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 24,
+                    "filename": "apps/security-e2e/src/support/commands.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 15,
+                    "filename": "apps/security-e2e/src/support/index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "apps/security-e2e/tsconfig.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "apps/security/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "apps/security/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "apps/security/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 100,
+                    "comment": 0,
+                    "filename": "apps/security/project.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "apps/security/proxy.conf.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 126,
+                    "comment": 0,
+                    "filename": "apps/security/src/app/app.component.html"
+                },
+                {
+                    "blank": 18,
+                    "code": 112,
+                    "comment": 3,
+                    "filename": "apps/security/src/app/app.component.scss"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "apps/security/src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/security/src/app/app.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "apps/security/src/app/app.module.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "apps/security/src/app/cross-cutting.module.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "apps/security/src/app/remote-entry/entry.component.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "apps/security/src/app/remote-entry/entry.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "apps/security/src/assets/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/security/src/bootstrap.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "apps/security/src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 11,
+                    "filename": "apps/security/src/environments/environment.ts"
+                },
+                {
+                    "filename": "apps/security/src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "apps/security/src/index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/security/src/main.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 1,
+                    "comment": 48,
+                    "filename": "apps/security/src/polyfills.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "apps/security/src/styles.scss"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/security/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/security/tsconfig.app.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "apps/security/tsconfig.editor.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "apps/security/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "apps/security/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 10,
+                    "filename": "apps/security/webpack.config.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "apps/security/webpack.prod.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "jest.preset.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "libs/.gitkeep"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/accounts/accounts-ui/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/accounts/accounts-ui/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "libs/accounts/accounts-ui/src/lib/accounts-ui.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/accounts/accounts-ui/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/actions/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/actions/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/actions/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/actions/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/actions/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/actions/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/actions/src/lib/actions.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/actions/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/actions/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/actions/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/actions/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/admin/admin-ui/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/admin/admin-ui/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "libs/admin/admin-ui/src/lib/admin-ui.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/admin/admin-ui/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/analytics/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/analytics/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/analytics/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/analytics/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/analytics/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/analytics/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/analytics/src/lib/analytics.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/analytics/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/analytics/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/analytics/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/analytics/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/billing/billing-ui/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/billing/billing-ui/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "libs/billing/billing-ui/src/lib/billing-ui.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/billing/billing-ui/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/common/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/common/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/common/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/common/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/common/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/common/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/common/src/lib/common.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/common/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/common/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/common/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/common/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/configuration/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/configuration/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/configuration/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/configuration/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/configuration/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/configuration/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/configuration/src/lib/configuration.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/configuration/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/configuration/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/configuration/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/configuration/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/error-handling/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/error-handling/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/error-handling/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/error-handling/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/error-handling/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/error-handling/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/error-handling/src/lib/error-handling.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/error-handling/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/error-handling/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/error-handling/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/error-handling/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/foundation/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/foundation/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/foundation/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/foundation/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/foundation/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/foundation/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/foundation/src/lib/foundation.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/foundation/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/foundation/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/foundation/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/foundation/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/http-service/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/http-service/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/http-service/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/http-service/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/http-service/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/http-service/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/http-service/src/lib/http-service.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/http-service/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/http-service/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/http-service/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/http-service/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/logging/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/logging/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/logging/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/logging/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/logging/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/logging/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/logging/src/lib/logging.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/logging/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/logging/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/logging/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/logging/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/notifications/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/notifications/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/notifications/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/notifications/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/notifications/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/notifications/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/notifications/src/lib/notifications.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/notifications/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/notifications/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/notifications/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/notifications/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/products/products-ui/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/products/products-ui/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "libs/products/products-ui/src/lib/products-ui.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/products/products-ui/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/reports/reports-ui/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/reports/reports-ui/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "libs/reports/reports-ui/src/lib/reports-ui.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/reports/reports-ui/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/rule-engine/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/rule-engine/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/src/lib/rule-engine.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/rule-engine/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/security/security-ui/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/security/security-ui/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "libs/security/security-ui/src/lib/security-ui.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/security/security-ui/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/validation/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/validation/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/validation/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/validation/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/validation/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/validation/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/validation/src/lib/validation.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/validation/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/validation/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/validation/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/validation/tsconfig.spec.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "libs/version-check/.browserslistrc"
+                },
+                {
+                    "blank": 1,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "libs/version-check/.eslintrc.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "libs/version-check/jest.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "libs/version-check/project.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "libs/version-check/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/version-check/src/index.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "libs/version-check/src/lib/version-check.module.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "libs/version-check/src/test-setup.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "libs/version-check/tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "libs/version-check/tsconfig.lib.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "libs/version-check/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "nx.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 43,
+                    "code": 51,
+                    "comment": 12,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "tools/generators/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "tools/tsconfig.tools.json"
+                },
+                {
+                    "blank": 5,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "tsconfig.base.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "workspace.json"
+                },
+                {
+                    "blank": 1948,
+                    "code": 8130,
+                    "comment": 23,
+                    "filename": "yarn.lock"
+                }
+            ]
+        }
+    ]
+}

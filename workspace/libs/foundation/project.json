@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/foundation",
+  "sourceRoot": "libs/foundation/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/foundation"],
+      "options": {
+        "jestConfig": "libs/foundation/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/foundation/src/**/*.ts",
+          "libs/foundation/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

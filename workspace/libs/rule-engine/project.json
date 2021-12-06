@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/rule-engine",
+  "sourceRoot": "libs/rule-engine/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/rule-engine"],
+      "options": {
+        "jestConfig": "libs/rule-engine/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/rule-engine/src/**/*.ts",
+          "libs/rule-engine/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

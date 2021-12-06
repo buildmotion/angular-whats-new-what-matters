@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/products/products-ui",
+  "sourceRoot": "libs/products/products-ui/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/products/products-ui"],
+      "options": {
+        "jestConfig": "libs/products/products-ui/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/products/products-ui/src/**/*.ts",
+          "libs/products/products-ui/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

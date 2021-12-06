@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/reports/reports-ui",
+  "sourceRoot": "libs/reports/reports-ui/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/reports/reports-ui"],
+      "options": {
+        "jestConfig": "libs/reports/reports-ui/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/reports/reports-ui/src/**/*.ts",
+          "libs/reports/reports-ui/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "projectType": "library",
+  "root": "libs/http-service",
+  "sourceRoot": "libs/http-service/src",
+  "prefix": "buildmotion",
+  "targets": {
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/http-service"],
+      "options": {
+        "jestConfig": "libs/http-service/jest.config.js",
+        "passWithNoTests": true
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "options": {
+        "lintFilePatterns": [
+          "libs/http-service/src/**/*.ts",
+          "libs/http-service/src/**/*.html"
+        ]
+      }
+    }
+  },
+  "tags": []
+}
