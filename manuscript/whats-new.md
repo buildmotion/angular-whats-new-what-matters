@@ -3,6 +3,7 @@
 - [What's New in Angular](#whats-new-in-angular)
   - [Highlights](#highlights)
   - [Versions](#versions)
+    - [Version 14, ()](#version-14-)
     - [Version 13 (Nov 04, 2021)](#version-13-nov-04-2021)
     - [Version 12 (May 12, 2021)](#version-12-may-12-2021)
     - [Version 11 (Nov 11, 2020)](#version-11-nov-11-2020)
@@ -21,6 +22,10 @@
 
 ## Versions
 
+### Version 14, ()
+
+- [Release Notes](https://blog.angular.io/angular-v14-is-now-available-391a6db736af)
+
 ### Version 13 (Nov 04, 2021)
 
 - View Engine is no longer available in Angular as of v13. 
@@ -36,13 +41,21 @@
 
 - [Release Notes](https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49)
 - [Angular Dev Tools](https://youtu.be/bavWOHZM6zE)
-  - profiling applications
+  - [profiling applications](https://angular.io/guide/devtools)
+- [`--strict` is default](https://angular.io/guide/strict-mode)
 - WebPack 5 Opt-in
 - Micro Frontend Capabilities
+- [Nullish Coalescing](https://dev.to/this-is-angular/nullish-coalescing-support-in-angular-template-48h6): `{{user ?? 'N/A'}}`
 - [i18n and new message id format](https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49)
-- nullish coalescing operator (??)
 - [content projection guide](https://v12.angular.io/guide/content-projection)
 - ng build now defaults to production
+- [Min/Max Form Validators](https://angular.io/api/forms/Validators)
+- [HttpInterceptors: Passing Context](https://netbasal.com/new-in-angular-v12-passing-context-to-http-interceptors-308a1ca2f3dd)
+  - [Sample](https://itnext.io/bypass-angular-interceptors-with-request-metadata-cf28061cda69)
+  - [Passing Meta Data to Interceptors](https://angular.io/guide/http#passing-metadata-to-interceptors)
+- [APP_INITIALIZER](https://angular.io/api/core/APP_INITIALIZER)
+  - [Usage notes from Angular.io](https://angular.io/api/core/APP_INITIALIZER#usage-notes)
+  - [How to use APP_INITIALIZER](https://www.tektutorialshub.com/angular/angular-how-to-use-app-initializer/)
 
 ### Version 11 (Nov 11, 2020)
 
@@ -50,25 +63,37 @@
 - `$localize `Hello ${name}:name!`;`
 -  new CLI output updates to make logs and reports easier to read
 -  opt-in to webpack v5. Currently, you could experiment with [module federation](https://webpack.js.org/concepts/module-federation/).
+-  [Hot Module Replacement](https://javascript.plainenglish.io/state-of-hmr-in-angular-b3c19b4ebc54#:~:text=Angular%2011%20made%20it%20easy,the%20page%20for%20each%20save.): `ng serve--hmr`
 
 ### Version 10 (Jun 24, 2020)
 
 - Warnings about CommonJS imports
 - Optional Stricter Settings
+- [Language Service](https://angular.io/guide/language-service)
+- [bundle budgets](https://angular.io/guide/build#configuring-size-budgets)
+- [Generic ModuleWithProviders<T>](https://angular.io/api/core/ModuleWithProviders)
+  - [more about migrating|using `ModuleWithProviders`](https://angular.io/guide/migration-module-with-providers)
 
 ### Version 9 (Feb 6, 2020)
 
 - Version 9 moves all applications to use the Ivy compiler and runtime by default
 - Improved build times, enabling AOT on by default
 - Improved Internationalization
+- Type checking
+  - full template | strict template
 
 ### Version 8 (May 28, 2019)
 
 - Featuring Differential loading for all application code, 
 - Dynamic imports for lazy routes, 
 - Web workers
+- builder|workspace APIs (serve, build, lint, test, e2e)
 
 ### Version 6 (May 4, 2018)
 
 - multiple projects (monorepo)
 - library projects (new type)
+  - providers
+- schematics
+- i18n
+- tree shaking
