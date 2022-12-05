@@ -2,7 +2,7 @@
   "unversionedId": "whats-new/overview",
   "id": "whats-new/overview",
   "title": "Overview",
-  "description": "Add something here.",
+  "description": "Highlights",
   "source": "@site/docs/whats-new/overview.md",
   "sourceDirName": "whats-new",
   "slug": "/whats-new/overview",
@@ -21,7 +21,7 @@
     "permalink": "/angular-whats-new-what-matters/docs/category/angular--whats-new"
   },
   "next": {
-    "title": "Angular :: What Matters?",
-    "permalink": "/angular-whats-new-what-matters/docs/category/angular--what-matters"
+    "title": "Functional Router Guards",
+    "permalink": "/angular-whats-new-what-matters/docs/whats-new/functional-router-guards"
   }
 }

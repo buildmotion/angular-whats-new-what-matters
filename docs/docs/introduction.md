@@ -12,12 +12,19 @@ We will review features released in each of the Angular versions going back to v
 
 The format of this discussion will be...
 
+- review highlights of Angular releases
+- what is new
+- what matters
+
 ## Goals/Objectives
 
-- add something here.
+- Determine if there is a feature that you have missed
+- Learn about new and existing features
+- Understand the importance of a feature
 
-### Repository
+## Contact Information
 
-```ts
-git clone https://github.com/buildmotion/angular-architecture-workshop.git
-```
+- Email: matt.vaughn@buildmotion.com
+- Web: [https://www.AngularArchitecture.com](https://www.AngularArchitecture.com)
+- Twitter: [@AngularArch](https://twitter.com/AngularArch) or @[Angularlicious](https://twitter.com/Angularlicious)
+- Github: https://github.com/buildmotion

@@ -4,11 +4,11 @@
   "permalink": "/angular-whats-new-what-matters/docs/category/angular--what-matters",
   "navigation": {
     "previous": {
-      "title": "Overview",
-      "permalink": "/angular-whats-new-what-matters/docs/whats-new/overview"
+      "title": "Functional Router Guards",
+      "permalink": "/angular-whats-new-what-matters/docs/whats-new/functional-router-guards"
     },
     "next": {
-      "title": "What Matters in Angular",
+      "title": "Overview",
       "permalink": "/angular-whats-new-what-matters/docs/what-matters/overview"
     }
   }

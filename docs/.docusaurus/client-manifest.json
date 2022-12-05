@@ -46,9 +46,6 @@
       532,
       13
     ],
-    "02b7c401": [
-      282
-    ],
     "0851e8ad": [
       446
     ],
@@ -159,6 +156,9 @@
       532,
       89
     ],
+    "bf7f901c": [
+      970
+    ],
     "ccc49370": [
       210,
       529,
@@ -237,9 +237,9 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.fb5b2139.js",
-          "hash": "ab5cc04134ebb8ab",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/935f2afb.fb5b2139.js"
+          "file": "assets/js/935f2afb.53b74667.js",
+          "hash": "64aba782f37ac69c",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/935f2afb.53b74667.js"
         }
       ]
     },
@@ -273,27 +273,27 @@
     "128": {
       "js": [
         {
-          "file": "assets/js/a09c2993.3405799b.js",
-          "hash": "e3ecebbda1886d78",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/a09c2993.3405799b.js"
+          "file": "assets/js/a09c2993.3838e772.js",
+          "hash": "b9e54183bbeaac48",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/a09c2993.3838e772.js"
         }
       ]
     },
     "161": {
       "js": [
         {
-          "file": "assets/js/1b564b6c.a3823839.js",
-          "hash": "d7ffc25ca4bb87da",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/1b564b6c.a3823839.js"
+          "file": "assets/js/1b564b6c.c79048a5.js",
+          "hash": "b61d8476408931bb",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/1b564b6c.c79048a5.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.8c38ead7.js",
-          "hash": "412fbee54f2dfb40",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/main.8c38ead7.js"
+          "file": "assets/js/main.1261e106.js",
+          "hash": "56bf3caebfd255d9",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/main.1261e106.js"
         }
       ]
     },
@@ -318,9 +318,9 @@
     "237": {
       "js": [
         {
-          "file": "assets/js/1df93b7f.5446d17a.js",
-          "hash": "f786e84e215818df",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/1df93b7f.5446d17a.js"
+          "file": "assets/js/1df93b7f.c2b03130.js",
+          "hash": "b58304f9f44f1f50",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/1df93b7f.c2b03130.js"
         }
       ]
     },
@@ -336,27 +336,18 @@
     "271": {
       "js": [
         {
-          "file": "assets/js/282c1c95.c78a7100.js",
-          "hash": "fdb445cdcbbe3f1e",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/282c1c95.c78a7100.js"
-        }
-      ]
-    },
-    "282": {
-      "js": [
-        {
-          "file": "assets/js/02b7c401.3efc236b.js",
-          "hash": "5e9116e5dfe39c85",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/02b7c401.3efc236b.js"
+          "file": "assets/js/282c1c95.539ca5d9.js",
+          "hash": "80f1e2582a0044fd",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/282c1c95.539ca5d9.js"
         }
       ]
     },
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.b289d3e0.js",
-          "hash": "c50d38676dd81370",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/runtime~main.b289d3e0.js"
+          "file": "assets/js/runtime~main.9357da89.js",
+          "hash": "044ed49a219426ee",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/runtime~main.9357da89.js"
         }
       ]
     },
@@ -372,9 +363,9 @@
     "378": {
       "js": [
         {
-          "file": "assets/js/f9ed09c4.8b8d47c5.js",
-          "hash": "2a0786e5a42ba3c9",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/f9ed09c4.8b8d47c5.js"
+          "file": "assets/js/f9ed09c4.c9eebca5.js",
+          "hash": "81312854c331ca8b",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/f9ed09c4.c9eebca5.js"
         }
       ]
     },
@@ -426,9 +417,9 @@
     "446": {
       "js": [
         {
-          "file": "assets/js/0851e8ad.3a3f629d.js",
-          "hash": "0884c1e3b5d8d9c5",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/0851e8ad.3a3f629d.js"
+          "file": "assets/js/0851e8ad.1bdef077.js",
+          "hash": "adc392c0e14db10e",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/0851e8ad.1bdef077.js"
         }
       ]
     },
@@ -597,9 +588,9 @@
     "922": {
       "js": [
         {
-          "file": "assets/js/1779d321.40700d0a.js",
-          "hash": "3ed3d2b3652c33b2",
-          "publicPath": "/angular-whats-new-what-matters/assets/js/1779d321.40700d0a.js"
+          "file": "assets/js/1779d321.0b4a6c0f.js",
+          "hash": "b7319733afaa1c54",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/1779d321.0b4a6c0f.js"
         }
       ]
     },
@@ -618,6 +609,15 @@
           "file": "assets/js/8717b14a.3d013a77.js",
           "hash": "716c9025ef7b2d9d",
           "publicPath": "/angular-whats-new-what-matters/assets/js/8717b14a.3d013a77.js"
+        }
+      ]
+    },
+    "970": {
+      "js": [
+        {
+          "file": "assets/js/bf7f901c.5af61128.js",
+          "hash": "9ceed7c214ab8078",
+          "publicPath": "/angular-whats-new-what-matters/assets/js/bf7f901c.5af61128.js"
         }
       ]
     },

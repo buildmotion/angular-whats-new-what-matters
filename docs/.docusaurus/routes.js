@@ -64,14 +64,8 @@ export default [
   },
   {
     path: '/angular-whats-new-what-matters/docs',
-    component: ComponentCreator('/angular-whats-new-what-matters/docs', '6f1'),
+    component: ComponentCreator('/angular-whats-new-what-matters/docs', '258'),
     routes: [
-      {
-        path: '/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo',
-        component: ComponentCreator('/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo', 'abf'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
       {
         path: '/angular-whats-new-what-matters/docs/additional-resources/resources-and-information',
         component: ComponentCreator('/angular-whats-new-what-matters/docs/additional-resources/resources-and-information', '986'),
@@ -105,6 +99,12 @@ export default [
       {
         path: '/angular-whats-new-what-matters/docs/what-matters/overview',
         component: ComponentCreator('/angular-whats-new-what-matters/docs/what-matters/overview', '34c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/angular-whats-new-what-matters/docs/whats-new/functional-router-guards',
+        component: ComponentCreator('/angular-whats-new-what-matters/docs/whats-new/functional-router-guards', 'a81'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -51,7 +51,7 @@ export default {
           "type": "doc",
           "docId": "introduction",
           "position": "left",
-          "label": "Course"
+          "label": "Discussion"
         },
         {
           "href": "https://github.com/buildmotion/angular-whats-new-what-matters",

@@ -143,16 +143,12 @@
     },
     "content": "393be207"
   },
-  "/angular-whats-new-what-matters/docs-6f1": {
+  "/angular-whats-new-what-matters/docs-258": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "6ed982bf"
     },
     "versionMetadata": "935f2afb"
-  },
-  "/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo-abf": {
-    "__comp": "17896441",
-    "content": "02b7c401"
   },
   "/angular-whats-new-what-matters/docs/additional-resources/resources-and-information-986": {
     "__comp": "17896441",
@@ -177,6 +173,10 @@
   "/angular-whats-new-what-matters/docs/what-matters/overview-34c": {
     "__comp": "17896441",
     "content": "1779d321"
+  },
+  "/angular-whats-new-what-matters/docs/whats-new/functional-router-guards-a81": {
+    "__comp": "17896441",
+    "content": "bf7f901c"
   },
   "/angular-whats-new-what-matters/docs/whats-new/overview-c16": {
     "__comp": "17896441",

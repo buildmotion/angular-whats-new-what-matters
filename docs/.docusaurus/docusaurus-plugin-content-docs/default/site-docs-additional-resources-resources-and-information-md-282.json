@@ -2,7 +2,7 @@
   "unversionedId": "additional-resources/resources-and-information",
   "id": "additional-resources/resources-and-information",
   "title": "Resources and Information",
-  "description": "Architectural Principles",
+  "description": "Angular Resources",
   "source": "@site/docs/additional-resources/resources-and-information.md",
   "sourceDirName": "additional-resources",
   "slug": "/additional-resources/resources-and-information",
@@ -19,9 +19,5 @@
   "previous": {
     "title": "Additional Resources",
     "permalink": "/angular-whats-new-what-matters/docs/category/additional-resources"
-  },
-  "next": {
-    "title": "Push to Existing Github Repository",
-    "permalink": "/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo"
   }
 }

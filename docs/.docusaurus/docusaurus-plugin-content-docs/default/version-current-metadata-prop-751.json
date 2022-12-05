@@ -26,6 +26,12 @@
             "label": "Overview",
             "href": "/angular-whats-new-what-matters/docs/whats-new/overview",
             "docId": "whats-new/overview"
+          },
+          {
+            "type": "link",
+            "label": "Functional Router Guards",
+            "href": "/angular-whats-new-what-matters/docs/whats-new/functional-router-guards",
+            "docId": "whats-new/functional-router-guards"
           }
         ],
         "href": "/angular-whats-new-what-matters/docs/category/angular--whats-new"
@@ -38,7 +44,7 @@
         "items": [
           {
             "type": "link",
-            "label": "What Matters in Angular",
+            "label": "Overview",
             "href": "/angular-whats-new-what-matters/docs/what-matters/overview",
             "docId": "what-matters/overview"
           }
@@ -56,12 +62,6 @@
             "label": "Resources and Information",
             "href": "/angular-whats-new-what-matters/docs/additional-resources/resources-and-information",
             "docId": "additional-resources/resources-and-information"
-          },
-          {
-            "type": "link",
-            "label": "Push to Existing Github Repository",
-            "href": "/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo",
-            "docId": "additional-resources/push-to-existing-git-repo"
           }
         ],
         "href": "/angular-whats-new-what-matters/docs/category/additional-resources"
@@ -69,16 +69,10 @@
     ]
   },
   "docs": {
-    "additional-resources/push-to-existing-git-repo": {
-      "id": "additional-resources/push-to-existing-git-repo",
-      "title": "Push to Existing Github Repository",
-      "description": "…or create a new repository on the command line",
-      "sidebar": "tutorialSidebar"
-    },
     "additional-resources/resources-and-information": {
       "id": "additional-resources/resources-and-information",
       "title": "Resources and Information",
-      "description": "Architectural Principles",
+      "description": "Angular Resources",
       "sidebar": "tutorialSidebar"
     },
     "introduction": {
@@ -89,14 +83,20 @@
     },
     "what-matters/overview": {
       "id": "what-matters/overview",
-      "title": "What Matters in Angular",
+      "title": "Overview",
       "description": "1. Library Projects",
+      "sidebar": "tutorialSidebar"
+    },
+    "whats-new/functional-router-guards": {
+      "id": "whats-new/functional-router-guards",
+      "title": "Functional Router Guards",
+      "description": "Existing|Current way to create a guard and use the guard in a route:",
       "sidebar": "tutorialSidebar"
     },
     "whats-new/overview": {
       "id": "whats-new/overview",
       "title": "Overview",
-      "description": "Add something here.",
+      "description": "Highlights",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -11,11 +11,6 @@
           "mainDocId": "introduction",
           "docs": [
             {
-              "id": "additional-resources/push-to-existing-git-repo",
-              "path": "/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "additional-resources/resources-and-information",
               "path": "/angular-whats-new-what-matters/docs/additional-resources/resources-and-information",
               "sidebar": "tutorialSidebar"
@@ -28,6 +23,11 @@
             {
               "id": "what-matters/overview",
               "path": "/angular-whats-new-what-matters/docs/what-matters/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "whats-new/functional-router-guards",
+              "path": "/angular-whats-new-what-matters/docs/whats-new/functional-router-guards",
               "sidebar": "tutorialSidebar"
             },
             {

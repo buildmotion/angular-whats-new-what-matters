@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# What Matters in Angular
+# Overview
 
 1. Library Projects
 2. Micro Frontend
@@ -37,7 +37,7 @@ sidebar_position: 2
 ## CLI
 
 ```ts
-npx create-nx-workspace workspace --npm-scope=buildmotion --preset=empty --style=scss --packageManager=yarn --nx-cloud=false
+npx create-nx-workspace mfe-workspace --npm-scope=buildmotion --preset=empty --style=scss --packageManager=yarn --nx-cloud=false
 cd workspace
 yarn add -D @nrwl/angular
 # Yarn
@@ -91,12 +91,3 @@ nx generate @nrwl/nest:application security-api --frontendProject security
 nx run-many --target=lint --all --parallel=true --skip-nx-cache=true --fix
 nx run-many --target=test --all --parallel=true --skip-nx-cache=true --fix
 ```
-
-
-## Resources
-
-- [Angular Upgrade Tools](https://update.angular.io/)
-- [Angular Dev Tools - Chrome Web Store](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh?hl=en&authuser=0)
-- [Angular Versions (Wikipedia)](https://en.wikipedia.org/w/index.php?title=Angular_(web_framework)&action=edit&section=12)
-- [Angular Ivy: the new Angular renderer explained](https://www.cleverti.com/blog/angular-ivy-the-new-angular-renderer-explained/)
-- [Angular + Webpack 5 and Module Federation](https://www.steffendielmann.com/2021/05/07/microfrontend-with-angular-and-webpack-module-federation/)
