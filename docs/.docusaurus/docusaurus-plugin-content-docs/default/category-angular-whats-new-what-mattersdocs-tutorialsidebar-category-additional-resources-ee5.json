@@ -1,0 +1,15 @@
+{
+  "title": "Additional Resources",
+  "slug": "/category/additional-resources",
+  "permalink": "/angular-whats-new-what-matters/docs/category/additional-resources",
+  "navigation": {
+    "previous": {
+      "title": "What Matters in Angular",
+      "permalink": "/angular-whats-new-what-matters/docs/what-matters/overview"
+    },
+    "next": {
+      "title": "Resources and Information",
+      "permalink": "/angular-whats-new-what-matters/docs/additional-resources/resources-and-information"
+    }
+  }
+}

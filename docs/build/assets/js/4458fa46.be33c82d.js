@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[673],{5466:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/angular-whats-new-what-matters/blog/tags/docusaurus","allTagsPath":"/angular-whats-new-what-matters/blog/tags","count":4}')}}]);

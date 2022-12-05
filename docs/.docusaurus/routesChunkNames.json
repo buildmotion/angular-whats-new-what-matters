@@ -1,0 +1,192 @@
+{
+  "/angular-whats-new-what-matters/blog-3dc": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "0dd3de8f"
+  },
+  "/angular-whats-new-what-matters/blog/archive-826": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "archive": "9e4cc462"
+  },
+  "/angular-whats-new-what-matters/blog/first-blog-post-ce2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/angular-whats-new-what-matters/blog/long-blog-post-925": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/angular-whats-new-what-matters/blog/mdx-blog-post-9d3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/angular-whats-new-what-matters/blog/tags-7d4": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "tags": "a1bf77e5"
+  },
+  "/angular-whats-new-what-matters/blog/tags/docusaurus-f5e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "4458fa46",
+    "listMetadata": "f219a3a6"
+  },
+  "/angular-whats-new-what-matters/blog/tags/facebook-d28": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "7e40a34d",
+    "listMetadata": "9e52e223"
+  },
+  "/angular-whats-new-what-matters/blog/tags/hello-af1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "97e165b0",
+    "listMetadata": "0ecfd18c"
+  },
+  "/angular-whats-new-what-matters/blog/tags/hola-48d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "6d324439",
+    "listMetadata": "3764b57f"
+  },
+  "/angular-whats-new-what-matters/blog/welcome-e32": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "6a5ba371"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/angular-whats-new-what-matters/markdown-page-b0d": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "2f732328"
+    },
+    "content": "393be207"
+  },
+  "/angular-whats-new-what-matters/docs-6f1": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "6ed982bf"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo-abf": {
+    "__comp": "17896441",
+    "content": "02b7c401"
+  },
+  "/angular-whats-new-what-matters/docs/additional-resources/resources-and-information-986": {
+    "__comp": "17896441",
+    "content": "282c1c95"
+  },
+  "/angular-whats-new-what-matters/docs/category/additional-resources-bf7": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0851e8ad"
+  },
+  "/angular-whats-new-what-matters/docs/category/angular--what-matters-4b9": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "1b564b6c"
+  },
+  "/angular-whats-new-what-matters/docs/category/angular--whats-new-6f5": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3bafe8a5"
+  },
+  "/angular-whats-new-what-matters/docs/introduction-64a": {
+    "__comp": "17896441",
+    "content": "a09c2993"
+  },
+  "/angular-whats-new-what-matters/docs/what-matters/overview-34c": {
+    "__comp": "17896441",
+    "content": "1779d321"
+  },
+  "/angular-whats-new-what-matters/docs/whats-new/overview-c16": {
+    "__comp": "17896441",
+    "content": "f9ed09c4"
+  },
+  "/angular-whats-new-what-matters/-973": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "2f732328"
+    },
+    "config": "5e9f5e1a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "introduction",
+  "id": "introduction",
+  "title": "Introduction",
+  "description": "Are you an effective Angular developer? This presentation highlights the newest features of Angular and the impact they may have on your productivity and delivery of amazing solutions. Angular moves pretty fast - you may not need the feature now, however knowing it exists and what it can do is important. Did you miss or forget about a major feature? Each of the last 5 releases has some amazing capabilities, are you taking advantage of them?",
+  "source": "@site/docs/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/introduction",
+  "permalink": "/angular-whats-new-what-matters/docs/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Angular :: What's New?",
+    "permalink": "/angular-whats-new-what-matters/docs/category/angular--whats-new"
+  }
+}

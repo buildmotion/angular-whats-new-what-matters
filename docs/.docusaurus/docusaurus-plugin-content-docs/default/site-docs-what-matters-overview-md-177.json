@@ -1,0 +1,27 @@
+{
+  "unversionedId": "what-matters/overview",
+  "id": "what-matters/overview",
+  "title": "What Matters in Angular",
+  "description": "1. Library Projects",
+  "source": "@site/docs/what-matters/overview.md",
+  "sourceDirName": "what-matters",
+  "slug": "/what-matters/overview",
+  "permalink": "/angular-whats-new-what-matters/docs/what-matters/overview",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/what-matters/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Angular :: What Matters?",
+    "permalink": "/angular-whats-new-what-matters/docs/category/angular--what-matters"
+  },
+  "next": {
+    "title": "Additional Resources",
+    "permalink": "/angular-whats-new-what-matters/docs/category/additional-resources"
+  }
+}

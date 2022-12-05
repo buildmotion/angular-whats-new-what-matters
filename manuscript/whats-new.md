@@ -1,9 +1,20 @@
 # What's New in Angular
 
+## Wifi
+
+matt.vaughn@buildmotion.com
+
+- wifi: UberConf2022
+- password: nfjs2022
+
+## What's New
+
 - [What's New in Angular](#whats-new-in-angular)
+  - [Wifi](#wifi)
+  - [What's New](#whats-new)
   - [Highlights](#highlights)
   - [Versions](#versions)
-    - [Version 14, ()](#version-14-)
+    - [Version 14, (June 2, 2022)](#version-14-june-2-2022)
     - [Version 13 (Nov 04, 2021)](#version-13-nov-04-2021)
     - [Version 12 (May 12, 2021)](#version-12-may-12-2021)
     - [Version 11 (Nov 11, 2020)](#version-11-nov-11-2020)
@@ -22,9 +33,11 @@
 
 ## Versions
 
-### Version 14, ()
+### Version 14, (June 2, 2022)
 
 - [Release Notes](https://blog.angular.io/angular-v14-is-now-available-391a6db736af)
+  - Standalone Components on [Stackblitz](https://stackblitz.com/edit/angular-standalone?file=src%2Fmain.ts)
+  - strict typing for the Angular Reactive Forms package
 
 ### Version 13 (Nov 04, 2021)
 
@@ -85,15 +98,19 @@
 ### Version 8 (May 28, 2019)
 
 - Featuring Differential loading for all application code, 
-- Dynamic imports for lazy routes, 
+- Dynamic imports for lazy routes
+  - [lazy-loading](https://angular.io/guide/lazy-loading-ngmodules)
+  - [Stackblitz Example](https://stackblitz.com/run?file=src%2Fapp%2Fapp-routing.module.ts)
 - Web workers
 - builder|workspace APIs (serve, build, lint, test, e2e)
 
 ### Version 6 (May 4, 2018)
 
-- multiple projects (monorepo)
-- library projects (new type)
+- [multiple projects (monorepo)](https://angular.io/guide/file-structure)
+  - [workspace](https://angular.io/guide/glossary#workspace)
+  - [projects](https://angular.io/guide/glossary#workspace)
+- [library projects (new type)](https://angular.io/guide/glossary#workspace)
   - providers
-- schematics
-- i18n
+- [schematics](https://angular.io/guide/glossary#workspace)
+- [i18n/i[nternationalizatio]n](https://angular.io/guide/i18n-overview)
 - tree shaking

@@ -1,0 +1,15 @@
+{
+  "title": "Angular :: What's New?",
+  "slug": "/category/angular--whats-new",
+  "permalink": "/angular-whats-new-what-matters/docs/category/angular--whats-new",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/angular-whats-new-what-matters/docs/introduction"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/angular-whats-new-what-matters/docs/whats-new/overview"
+    }
+  }
+}

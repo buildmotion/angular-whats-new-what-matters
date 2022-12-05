@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/angular-whats-new-what-matters/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/angular-whats-new-what-matters/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "additional-resources/push-to-existing-git-repo",
+              "path": "/angular-whats-new-what-matters/docs/additional-resources/push-to-existing-git-repo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "additional-resources/resources-and-information",
+              "path": "/angular-whats-new-what-matters/docs/additional-resources/resources-and-information",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/angular-whats-new-what-matters/docs/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "what-matters/overview",
+              "path": "/angular-whats-new-what-matters/docs/what-matters/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "whats-new/overview",
+              "path": "/angular-whats-new-what-matters/docs/whats-new/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/angular--whats-new",
+              "path": "/angular-whats-new-what-matters/docs/category/angular--whats-new",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/angular--what-matters",
+              "path": "/angular-whats-new-what-matters/docs/category/angular--what-matters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/additional-resources",
+              "path": "/angular-whats-new-what-matters/docs/category/additional-resources",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/angular-whats-new-what-matters/docs/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
